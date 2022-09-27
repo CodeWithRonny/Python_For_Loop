@@ -72,7 +72,22 @@ for x in range(3, 31, 3):
  	print(x)
 ```
 
-## for loop with else
+## Python For Loop With Else
+### Python For Loop With Else Syntax
+```
+for item in object:
+    LOOP Body
+else:
+	ELSE Body
+```
+```
+for value in sequence:
+    LOOP Body
+else:
+	ELSE Body
+
+```
+### for loop with else 
 ```
 for x in "LOOP":
 	print(x)
@@ -86,7 +101,23 @@ for fruit in my_fruit_basket:
 else:
 	print("Basket is empty now")
 ```
-## Nested For Loop
+## Python Nested For Loop
+### Python Nested For Loop Syntax
+```
+for items in object:
+	for item in items:
+    	LOOP Body
+else:
+	ELSE Body
+```
+```
+for values in sequence:
+	for value in values:
+		LOOP Body
+else:
+	ELSE Body
+```
+### Nested For Loop
 ```
 van = ["Maruti", "nano", "Suzuki"]
 for x in van:
