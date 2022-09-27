@@ -1,4 +1,7 @@
 # Python For Loop
+# What is FOR LOOP?
+In computer programming, a loop is a sequence of instructions that is continuously repeated until a certain condition is reached. Typically, a certain process is done.
+In python FOR loop is used to iterate over a sequence data type like list, tuple, dictionary, set and string until last item. 
 ```
 for x in "LOOPBREAK":
 	print(x)
