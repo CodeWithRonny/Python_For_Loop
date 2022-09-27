@@ -11,15 +11,14 @@ for item in van:
  ### break
 ### pass
 ### continue
-  ## Python For Loop Statement
+  ## Python For Loop Syntax
   ```
-
-
-van = ["suv", "nano", "bolero", "Bus"]
-for x in van:
-	if x == "nano":
-		continue
-	print(x)
+for item in object:
+    LOOP Body
+```
+```
+for value in sequence:
+    LOOP Body
 ```
 ## Python For Loop Break Statement
 
